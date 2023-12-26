@@ -1,0 +1,18 @@
+*{
+font-family: sans-serif;
+}
+
+
+.decbtn, .incbtn{
+    background-color: #E70010;
+    width: 45px;
+    height: 30px;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+.incbtn{
+    background-color: #007CD3;
+}
